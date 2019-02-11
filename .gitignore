@@ -1,0 +1,22 @@
+# Eclipse
+.project
+.settings
+.classpath
+.externalToolBuilders
+.log
+.class
+*hs_err_pid*.log
+.factorypath
+bin
+
+# Maven
+target
+
+# Other
+.DS_Store
+.history
+*.swp
+
+#Log files
+*.log
+
