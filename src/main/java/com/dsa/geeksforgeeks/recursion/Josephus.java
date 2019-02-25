@@ -1,4 +1,4 @@
-package recursion;
+package com.dsa.geeksforgeeks.recursion;
 
 public class Josephus {
 

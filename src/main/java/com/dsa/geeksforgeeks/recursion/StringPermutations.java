@@ -1,9 +1,9 @@
-package recursion;
+package com.dsa.geeksforgeeks.recursion;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-import recursion.RemoveAdjacent.Last;
+import com.dsa.geeksforgeeks.recursion.RemoveAdjacent.Last;
 
 public class StringPermutations {
 
