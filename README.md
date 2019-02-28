@@ -277,8 +277,8 @@
 - [ ] [Multiply two linked lists]()
 - [X] [Merge two sorted linked lists]()
 - [X] [Merge Sort on Linked List]()
-- [ ] [Intersection of Two Linked Lists]()
-- [ ] [Union of Two Linked Lists]()
+- [X] [Intersection of Two Linked Lists]()
+- [X] [Union of Two Linked Lists]()
 - [ ] [Linked List Data Structure]()
 
 ### Doubly and Circular Linked Lists
@@ -297,14 +297,14 @@
 
 ### Stack
 
-- [ ] [Implement Stack using Array]()
-- [ ] [Implement Stack using Linked List]()
-- [ ] [Check for balanced parenthesis]()
-- [ ] [Reverse a stack]()
-- [ ] [Implement two stacks in an array]()
-- [ ] [Design a stack with getMin]()
-- [ ] [The celebrity problem]()
-- [ ] [Stock Span Problem]()
+- [X] [Implement Stack using Array]()
+- [X] [Implement Stack using Linked List]()
+- [X] [Check for balanced parenthesis]()
+- [X] [Reverse a stack]()
+- [X] [Implement two stacks in an array]()
+- [X] [Design a stack with getMin]()
+- [X] [The celebrity problem]()
+- [X] [Stock Span Problem]()
 - [ ] [Next Greater Element]()
 - [ ] [Next Smaller Element]()
 - [ ] [Longest valid Parentheses]()
