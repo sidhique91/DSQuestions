@@ -312,11 +312,11 @@
 
 ### Queue and Dequeue
 
-- [ ] [Implement Queue using Linked List]()
-- [ ] [Implement Queue using Array]()
-- [ ] [Implement Stack using Queue]()
-- [ ] [Implement Queue using Stack]()
-- [ ] [Reversing a Queue]()
+- [X] [Implement Queue using Linked List]()
+- [X] [Implement Queue using Array]()
+- [X] [Implement Stack using Queue]()
+- [X] [Implement Queue using Stack]()
+- [X] [Reversing a Queue]()
 - [ ] [Circular tour]()
 - [ ] [Queue Data Structure]()
 - [ ] [First non-repeating character in a stream]()
